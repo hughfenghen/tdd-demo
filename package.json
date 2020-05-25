@@ -1,7 +1,7 @@
 {
-  "name": "ts-jest-parcel-tpl",
-  "version": "0.4.8",
-  "description": "ts + jest + parcel + tpl 模板项目",
+  "name": "tdd-demo",
+  "version": "0.1.0",
+  "description": "TDD 演示项目",
   "repository": "",
   "keywords": [],
   "main": "",

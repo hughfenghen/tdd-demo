@@ -1,8 +1,7 @@
-# ts + jest + parcel + tpl 模板项目
+# TDD Demo
 
 ## 使用
 1. clone 项目到本地  
-2. `cd ts-jest-parcel-tpl`  
+2. `cd tdd-demo`  
 4. 安装依赖 `yarn`  
-5. 运行测试 `yarn test`
-6. 运行dev服务 `yarn dev`, 访问`http://localhost:1234/`   
+5. 运行测试 `yarn test:watch` (vscode 可在Debug面板，运行`Debug Jest Tests`)  
